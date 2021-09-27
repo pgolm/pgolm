@@ -1,6 +1,8 @@
-![Peter Golm's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgolm&count_private=true)
+![Peter Golm's GitHub stats](https://pgolm.github.io/github-stats/overview.svg)
+![Peter Golm's Languages stats](https://pgolm.github.io/github-stats/languages.svg)
 
 <!--
+![Peter Golm's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgolm&count_private=true)
 **pgolm/pgolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
